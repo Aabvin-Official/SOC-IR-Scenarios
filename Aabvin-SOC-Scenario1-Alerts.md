@@ -79,13 +79,13 @@ Threat Intelligence Platforms: Use platforms like ThreatConnect or MISP
 
  Assessment Questions
 Questions:
-🛠️ What steps are involved in configuring QRadar to detect anomalous behavior?  
-⚙️ How do you set up rules in QRadar to flag excessive failed login attempts followed by a successful one?  
-📧 Describe the process of setting up alerts to monitor email gateway logs in Splunk.  
-⚖️ How can QRadar Risk Manager be used to prioritize alerts?  
-📈 Explain the use of Splunk’s adaptive response framework in alert prioritization.  
-🖥️ What are the steps for analyzing logs from various sources in Splunk?  
-🔍 How can Wireshark be used to capture and analyze network traffic?  
-🔍 Describe the process of querying historical data in QRadar.  
-🛠️ How does Splunk’s machine learning toolkit help in detecting deviations from normal behavior?  
-🌐 Explain how threat intelligence feeds are integrated into QRadar and Splunk.  
+- 🛠️ What steps are involved in configuring QRadar to detect anomalous behavior?  
+- ⚙️ How do you set up rules in QRadar to flag excessive failed login attempts followed by a successful one?  
+- 📧 Describe the process of setting up alerts to monitor email gateway logs in Splunk.  
+- ⚖️ How can QRadar Risk Manager be used to prioritize alerts?  
+- 📈 Explain the use of Splunk’s adaptive response framework in alert prioritization.  
+- 🖥️ What are the steps for analyzing logs from various sources in Splunk?  
+- 🔍 How can Wireshark be used to capture and analyze network traffic?  
+- 🔍 Describe the process of querying historical data in QRadar.  
+- 🛠️ How does Splunk’s machine learning toolkit help in detecting deviations from normal behavior?  
+- 🌐 Explain how threat intelligence feeds are integrated into QRadar and Splunk.  
